@@ -69,15 +69,25 @@ Output Data 1
 Create a resultant CSV/Excel file with the following columns:
 
 ● Order ID
+
 ● AWB Number
+
 ● Total weight as per X (KG)
+
 ● Weight slab as per X (KG)
+
 ● Total weight as per Courier Company (KG)
+
 ● Weight slab charged by Courier Company (KG)
+
 ● Delivery Zone as per X
+
 ● Delivery Zone charged by Courier Company
+
 ● Expected Charge as per X (Rs.)
+
 ● Charges Billed by Courier Company (Rs.)
+
 ● Difference Between Expected Charges and Billed Charges (Rs.)
 
 ![cointab](https://github.com/Mohd-Kashif-Shaikh/CoinTab-Assignment-/assets/138367593/972c314b-94b8-4c23-8992-ecb0d14960f4)
